@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfa2ea29-0b20-49bc-9a8d-edefd31a0b78" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rydNrLX8Tdu1bQAkuDWmzAKpLt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstractionPractice.executor": "Run",
+    "Application.AgainDay1.executor": "Run",
+    "Application.ArraySort.executor": "Run",
+    "Application.BankSystem.executor": "Run",
+    "Application.BestTimeToBuyAndSellStock.executor": "Debug",
+    "Application.CharOccurence.executor": "Run",
+    "Application.Code1.executor": "Run",
+    "Application.Code2.executor": "Run",
+    "Application.CodingTrust.executor": "Run",
+    "Application.ContainsDuplicates.executor": "Run",
+    "Application.Day1Abstraction.executor": "Run",
+    "Application.Day1Employee.executor": "Run",
+    "Application.Day2Inheritance.executor": "Run",
+    "Application.Day3.executor": "Run",
+    "Application.Day3Example2.executor": "Run",
+    "Application.Day4KeyPress.executor": "Run",
+    "Application.Day4MoveMouse.executor": "Run",
+    "Application.EmployeeSalary.executor": "Run",
+    "Application.Exam.executor": "Run",
+    "Application.FactoryDemo.executor": "Run",
+    "Application.GroupAnagrams.executor": "Run",
+    "Application.HashMapUseCase.executor": "Run",
+    "Application.Hashmaps.executor": "Run",
+    "Application.Inheritances.executor": "Run",
+    "Application.Inherits.executor": "Run",
+    "Application.Java8.executor": "Run",
+    "Application.Java8Features.executor": "Run",
+    "Application.Kth.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxProfit.executor": "Run",
+    "Application.MaxSalary.executor": "Run",
+    "Application.MergeLinkedLists.executor": "Run",
+    "Application.Neptune2.executor": "Run",
+    "Application.OopsConcepts.executor": "Run",
+    "Application.ParentClass.executor": "Run",
+    "Application.Pick1.executor": "Run",
+    "Application.Practice1.executor": "Run",
+    "Application.Practice10.executor": "Run",
+    "Application.Practice11.executor": "Run",
+    "Application.Practice12.executor": "Run",
+    "Application.Practice13.executor": "Run",
+    "Application.Practice14.executor": "Run",
+    "Application.Practice15.executor": "Run",
+    "Application.Practice16.executor": "Run",
+    "Application.Practice17.executor": "Run",
+    "Application.Practice18.executor": "Run",
+    "Application.Practice2.executor": "Run",
+    "Application.Practice3.executor": "Run",
+    "Application.Practice4.executor": "Run",
+    "Application.Practice5.executor": "Run",
+    "Application.Practice6.executor": "Run",
+    "Application.Practice7.executor": "Run",
+    "Application.Practice8.executor": "Run",
+    "Application.Practice9.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReverseALinkedList.executor": "Run",
+    "Application.ReverseAString.executor": "Run",
+    "Application.Reversing.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SortUsingStreams.executor": "Run",
+    "Application.StreamsPractice.executor": "Run",
+    "Application.TargetSum.executor": "Run",
+    "Application.Testing.executor": "Run",
+    "Application.Testing1.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
+    "Application.TwoSumEnhanced.executor": "Run",
+    "Application.ValidPalindrome.executor": "Run",
+    "Application.ValidParenthesis.executor": "Run",
+    "Maven.Project3 [clean,install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Users/hp/projects/FirstApi",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.ninetydays" />
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OopsConcepts">
+    <configuration name="AgainDay1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AgainDay1" />
+      <module name="Project3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainsDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ContainsDuplicates" />
+      <module name="Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day4KeyPress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ninetydays.Day4KeyPress" />
+      <module name="Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ninetydays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OopsConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ninetydays.OopsConcepts" />
+      <module name="Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ninetydays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParentClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ninetydays.ParentClass" />
+      <module name="Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ninetydays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OopsConcepts" />
+        <item itemvalue="Application.ContainsDuplicates" />
+        <item itemvalue="Application.AgainDay1" />
+        <item itemvalue="Application.ParentClass" />
+        <item itemvalue="Application.Day4KeyPress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa2ea29-0b20-49bc-9a8d-edefd31a0b78" name="Changes" comment="" />
+      <created>1737535214344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737535214344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/ValidPalindrome.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/FactoryDemo.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/BestTimeToBuyAndSellStock.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/BestTimeToBuyAndSellStock.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Kth.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Kth.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/FactoryDemo.java</url>
+          <line>30</line>
+          <properties class="org.example.DrinkFactory" method="createDrink">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/FactoryDemo.java</url>
+          <line>16</line>
+          <properties class="org.example.Coffee" method="prepare">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/FactoryDemo.java</url>
+          <line>10</line>
+          <properties class="org.example.Drink" method="prepare">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Java8.java</url>
+          <line>17</line>
+          <properties class="org.example.Java8">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/MaxSalary.java</url>
+          <line>8</line>
+          <properties class="org.example.MaxSalary" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
